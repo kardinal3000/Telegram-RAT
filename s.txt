@@ -1,0 +1,6 @@
+python get-pip.py
+pip3 install -r tools.txt (https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio)
+pip3 uninstall -y enum34
+pip3 install PyAudio-0.2.11-cp38-cp38-win_amd64.whl
+pip3 install PyInstaller-3.6-py2.py3-none-any.whl
+pyinstaller -w -F RAT.py
