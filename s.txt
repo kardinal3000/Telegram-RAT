@@ -8,5 +8,4 @@ pyinstaller -w -F RAT.py
 
 GET- Chat_ID
 1- send massege to bot /my_id @my_bot
-
-3- Go to following url: https://api.telegram.org/botXXX:YYYY/getUpdates   XXX:YYYY - your bot token
+2- Go to following url: https://api.telegram.org/botXXX:YYYY/getUpdates   XXX:YYYY - your bot token
