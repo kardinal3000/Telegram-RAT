@@ -1,4 +1,4 @@
-# :fire: Telegram-RAT:
+# :fire: Telegram:
 Управляйте компьютером с помощью телеграмма!
 
 # :page_facing_up: Установка:
